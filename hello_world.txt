@@ -1,2 +1,2 @@
 Hello there...
-This is my beginneer level lesson for github basics.
+This is my beginner level lesson for github basics.
